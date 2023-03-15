@@ -1,2 +1,2 @@
 # krystyna-lyn.github.io
-JavaScript Quiz
+JavaScript Quiz (English)
